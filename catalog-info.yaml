@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: Hacktoberfest-2022
   annotations:
-    github.com/project-slug: Bru-WAYNE/Hacktoberfest-2022
+    github.com/project-slug: Bru-WAYNE/Hacktoberfest-2024
 spec:
   type: other
   lifecycle: unknown
